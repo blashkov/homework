@@ -1,4 +1,4 @@
-### homework
+### HOMEWORK
 # My first homework for binary-studio academy
 
 На днях в канадской Альберте выставили останки замечательно законсервированной «мумии» динозавра, 
